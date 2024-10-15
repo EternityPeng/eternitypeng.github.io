@@ -21,7 +21,7 @@ repository               : "EternityPeng/eternitypeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.0.png"
   name             : "Jiayin Peng"
   pronouns         : # example: "she/her"  
   bio              : "ACM Member | Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing"
