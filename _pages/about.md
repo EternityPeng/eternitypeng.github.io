@@ -9,15 +9,15 @@ redirect_from:
 
 # Jiayin Peng
 
-- ? Email: [pengjiayin109@gmail.com](mailto:pengjiayin109@gmail.com)
-- ? Blog: [CSDN Blog](https://blog.csdn.net/p213100)
-- ?? GitHub: [EternityPeng](https://github.com/EternityPeng)
-- ? Phone: +86 18207572289
+- Email: [pengjiayin109@gmail.com](mailto:pengjiayin109@gmail.com)
+- Blog: [CSDN Blog](https://blog.csdn.net/p213100)
+- GitHub: [EternityPeng](https://github.com/EternityPeng)
+- Phone: +86 18207572289
 
 ---
 
 ## Summary
-Completed three years of major courses in two years (transitioned from Film to Computer Science), earning the school��s **First-Class Scholarship** (top **8%** in Computer Science) and **Second-Class Scholarship** (top **20%** in Film).
+Completed three years of major courses in two years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top **8%** in Computer Science) and **Second-Class Scholarship** (top **20%** in Film).
 
 ---
 
@@ -26,7 +26,7 @@ Completed three years of major courses in two years (transitioned from Film to C
 **B.Sc., Computer Science and Technology**  
 **Beijing Normal University - Hong Kong Baptist University United International College (UIC)**  
 *Expected Graduation: 09.2021 - 06.2025*  
-- GPA: 3.68/4.00 (Rank: 12/148)  
+- GPA: 3.68/4.00 (Rank: 12/147)  
 - Major GPA: 3.77/4.00  
 - [Prof. Su (Department Head Referee)](https://staff.uic.edu.cn/wfsu/en)  
 - [Prof. Zhang (Referee)](https://staff.uic.edu.cn/amyzhang/en)
@@ -61,7 +61,7 @@ Completed three years of major courses in two years (transitioned from Film to C
 
 ### A Self-aware Computing Model for Autonomous Driving (Ongoing Publication EAAI)  
 *03.2024 - Present*  
-- Collaborated with [Assoc. Dean Ricky Hou](https://staff.uic.edu.cn/rickyhou/en) to clean datasets and map historical routes using **QGIS**.
+- Collaborated with [Assoc. Dean Ricky Hou(Referee)](https://staff.uic.edu.cn/rickyhou/en) to clean datasets and map historical routes using **QGIS**.
 - Applied clustering methods to identify anomalous driving behaviors.
 
 ---
@@ -69,7 +69,7 @@ Completed three years of major courses in two years (transitioned from Film to C
 ## Internship Experience
 
 ### Canvest SciWin Intelligent Company (HKEX-listed), R&D Dept.  
-*Data Processing Intern (06.2023 �C 09.2023)*  
+*Data Processing Intern (06.2023 - 09.2023)*  
 - Utilized **Unity** for point cloud localization and annotation.
 - Prepared anomaly reports and delivered weekly team presentations.
 - Assisted in the installation and deployment of **LiDAR** components.
