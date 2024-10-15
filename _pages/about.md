@@ -17,7 +17,7 @@ redirect_from:
 ---
 
 ## Summary
-Completed three years of major courses in two years (transitioned from Film to Computer Science), earning the school¡¯s **First-Class Scholarship** (top **8%** in Computer Science) and **Second-Class Scholarship** (top **20%** in Film).
+Completed three years of major courses in two years (transitioned from Film to Computer Science), earning the schoolï¿½ï¿½s **First-Class Scholarship** (top **8%** in Computer Science) and **Second-Class Scholarship** (top **20%** in Film).
 
 ---
 
@@ -54,13 +54,13 @@ Completed three years of major courses in two years (transitioned from Film to C
 ## Project Experience
 
 ### [The Analyzer of The Nine Chapters on the Mathematical Art (Leader)](https://github.com/EternityPeng/The-Nine-Chapters-Analyzer)  
-*02.2024 ¨C 06.2024*  
+*02.2024 - 06.2024*  
 - Compiled and calculated the results of nine chapters of arithmetic expressions in **Classical Chinese** entered by users.
 - Reconstructed and optimized the analysis structure of the lexer and parser, utilizing a **nested set structure** for semantic analysis. This resulted in nearly **70% improvement** in compilation speed.
 - Enhanced lookup speed using a **disjoint set (union-find)** structure, supporting **Classical Chinese numerals** conversion to Arabic numerals.
 
 ### A Self-aware Computing Model for Autonomous Driving (Ongoing Publication EAAI)  
-*03.2024 ¨C Present*  
+*03.2024 - Present*  
 - Collaborated with [Assoc. Dean Ricky Hou](https://staff.uic.edu.cn/rickyhou/en) to clean datasets and map historical routes using **QGIS**.
 - Applied clustering methods to identify anomalous driving behaviors.
 
@@ -69,7 +69,7 @@ Completed three years of major courses in two years (transitioned from Film to C
 ## Internship Experience
 
 ### Canvest SciWin Intelligent Company (HKEX-listed), R&D Dept.  
-*Data Processing Intern (06.2023 ¨C 09.2023)*  
+*Data Processing Intern (06.2023 ï¿½C 09.2023)*  
 - Utilized **Unity** for point cloud localization and annotation.
 - Prepared anomaly reports and delivered weekly team presentations.
 - Assisted in the installation and deployment of **LiDAR** components.
