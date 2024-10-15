@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiayin Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "ACM Member | Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing"
   location         : "China"
   employer         : "UIC"
   uri              : # URL
@@ -43,8 +43,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "eternitypeng"
+  kaggle           : "eternitypeng"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
