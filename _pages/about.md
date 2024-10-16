@@ -13,11 +13,7 @@ redirect_from:
 - Blog: [CSDN Blog](https://blog.csdn.net/p213100)
 - GitHub: [EternityPeng](https://github.com/EternityPeng)
 - Phone: +86 18207572289
-
----
-
-## Summary
-Completed three years of major courses in two years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top **8%** in Computer Science) and **Second-Class Scholarship** (top **20%** in Film).
+- language: English (Proficient); Chinese (Native); Cantonese (Native)
 
 ---
 
@@ -26,14 +22,21 @@ Completed three years of major courses in two years (transitioned from Film to C
 **B.Sc., Computer Science and Technology**  
 **Beijing Normal University - Hong Kong Baptist University United International College (UIC)**  
 *Expected Graduation: 09.2021 - 06.2025*  
-- GPA: 3.68/4.00 (Rank: 12/147)  
-- Major GPA: 3.77/4.00  
-- [Prof. Su (Department Head Referee)](https://staff.uic.edu.cn/wfsu/en)  
-- [Prof. Zhang (Referee)](https://staff.uic.edu.cn/amyzhang/en)
+
+**Foshan No. 1 High School**
+*Graduation: 09.2018 - 06.2021*
+
+**Shimen Experimental School**
+*Graduation: 09.2015 - 06.2018*
+
+**Nangwang Chinese-English School(Hong Kong Branch)**
+*Graduation: 09.2009 - 06.2015*
 
 **Relevant Coursework:**
-- Compiler Construction ([Dr. Monica Chen (Referee)](https://staff.uic.edu.cn/wenchen/en))
+- Compiler Construction
 - Design and Analysis of Algorithms
+- Natural Language Processing
+- Computer Vision and Pattern Recognition
 
 ---
 
@@ -41,9 +44,7 @@ Completed three years of major courses in two years (transitioned from Film to C
 
 - **National Third Prize** in Python Group at the 15th Lan Qiao (Blue Bridge) Cup, 06.2024
 - **National Second Prize** in the 3rd National College Students Market Research and Business Planning Competition, 06.2024  
-  Supervisor: [Dr. Ellen Shan](https://staff.uic.edu.cn/shuoshan/en)  
-- **Third Prize** in Interactive Media Design Group at Guangdong College Student Computer Design Competition, 09.2024  
-  Supervisor: [Dr. Goliath Li](https://staff.uic.edu.cn/shuoshan/en)  
+- **Third Prize** in Interactive Media Design Group at Guangdong College Student Computer Design Competition, 09.2024
 - **Industrial Internet Platform Development Engineer Intermediate Level**, 06.2024
 - **Second Prize** in the 3rd National College Students Data Analysis Science Popularization Competition, 09.2024
 - **Market Analysis Researchers LEVEL I**, 04.2024
@@ -78,11 +79,11 @@ Completed three years of major courses in two years (transitioned from Film to C
 
 ## Activities
 
-- **UIC ACM Member** ([Dr. Chen](https://staff.uic.edu.cn/jiaxingchen/en))  
+- **UIC ACM Member**  
 - Member of **Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing**  
 - **UIC Maker Center "Yanxin"** Technical Team Member (First Prize, Innovation and Entrepreneurship Competition; Silver Award, "Jingniuhui" Cup)  
-- **Technical Advisor** of UIC Digital Healthcare Research Group ([Assoc. Prof. Zhang](https://staff.uic.edu.cn/qiaoyunzhang/en))  
-- **Chess:** Third Place (City), **Table Tennis:** First Place (District), **Karate:** Second Place (District) ([Dr. Ji](https://staff.uic.edu.cn/chunyanji/en))
+- **Technical Advisor** of UIC Digital Healthcare Research Group 
+- **Chess:** Third Place (City), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
 
 ---
 
