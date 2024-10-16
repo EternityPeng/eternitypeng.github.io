@@ -35,7 +35,7 @@ redirect_from:
     - Investment
     - Business
     - Market
-    - Chinese Cheese
+    - Chinese Chess
   
 
 
