@@ -57,7 +57,7 @@ redirect_from:
 **Shimen Experimental School**
 *Graduation: 09.2015 - 06.2018*
 
-**Nangwang Chinese-English School(Hong Kong Branch)**
+**Nang Guang International School**
 *Graduation: 09.2009 - 06.2015*
 
 ---
@@ -78,13 +78,14 @@ redirect_from:
 
 ### [The Analyzer of The Nine Chapters on the Mathematical Art (Leader)](https://github.com/EternityPeng/The-Nine-Chapters-Analyzer)  
 *02.2024 - 06.2024*  
-- Compiled and calculated the results of nine chapters of arithmetic expressions in **Classical Chinese** entered by users.
-- Reconstructed and optimized the analysis structure of the lexer and parser, utilizing a **nested set structure** for semantic analysis. This resulted in nearly **70% improvement** in compilation speed.
-- Enhanced lookup speed using a **disjoint set (union-find)** structure, supporting **Classical Chinese numerals** conversion to Arabic numerals.
+- Reconstructed and optimized the analysis structure of the lexer and parser, utilizing a **nested set structure** to enhance the semantic analysis phase, particularly the parse tree with **type checking**, enabling the computation of **inverse function** equations and solving complex **multi-query function** problems. This optimization accelerated the **dimensionless and dimensional** analysis as well as the differentiation and conversion between different **basic types, constructed types and other types**, resulting in a nearly **70%** improvement in compilation speed.
+  
+- Utilized a **disjoint set (union-find)** structure to enhance the lookup speed of the lexeme table and parse table. Additionally, adjusted the **regular expression** matching mechanism to accommodate Classical Chinese characteristics, enabling support for converting Classical Chinese numerals, including **fractions**, to Arabic numerals within a **billion** range, covering **11** types of units across **97** different measurement units.
+
 
 ### A Self-aware Computing Model for Autonomous Driving (Ongoing Publication EAAI)  
 *03.2024 - Present*  
-- Collaborated with [Assoc. Dean Ricky Hou(Referee)](https://staff.uic.edu.cn/rickyhou/en) to clean datasets and map historical routes using **QGIS**.
+- Collaborated with [Assoc. Dean Ricky Hou](https://staff.uic.edu.cn/rickyhou/en) to clean datasets and map historical routes using **QGIS**.
 - Applied clustering methods to identify anomalous driving behaviors.
 
 ---
