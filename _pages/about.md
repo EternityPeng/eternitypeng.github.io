@@ -13,7 +13,11 @@ redirect_from:
 - Blog: [CSDN Blog](https://blog.csdn.net/p213100)
 - GitHub: [EternityPeng](https://github.com/EternityPeng)
 - Phone: +86 18207572289
-- language: English (Proficient); Chinese (Native); Cantonese (Native)
+- Language:
+  - Programming Language
+    - Python; C++; C; Java; SQL; HTML; CSS; PHP; Shell; Git; Linux; Docker
+  - Conversational Language
+    - English (Proficient); Mandarin (Native); Cantonese (Native)
 - Hobbies:
   - Tech:
     - Compiler Construction
@@ -32,7 +36,7 @@ redirect_from:
     - Fitness
     - Archery
   - Other
-    - Investment
+    - Quantitative Investment
     - Business
     - Market
     - Chinese Chess
