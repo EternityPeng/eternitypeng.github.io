@@ -14,6 +14,30 @@ redirect_from:
 - GitHub: [EternityPeng](https://github.com/EternityPeng)
 - Phone: +86 18207572289
 - language: English (Proficient); Chinese (Native); Cantonese (Native)
+- Hobbies:
+  - Tech:
+    - Compiler Construction
+    - SE 
+    - IoT 
+    - Web
+    - App
+    - NLP
+    - CVPR
+  - Sports
+    - Table Tennis
+    - Karate
+    - Running
+    - Cycling
+    - Kayak
+    - Fitness
+    - Archery
+  - Other
+    - Investment
+    - Business
+    - Market
+    - Chinese Cheese
+  
+
 
 ---
 
@@ -31,12 +55,6 @@ redirect_from:
 
 **Nangwang Chinese-English School(Hong Kong Branch)**
 *Graduation: 09.2009 - 06.2015*
-
-**Relevant Coursework:**
-- Compiler Construction
-- Design and Analysis of Algorithms
-- Natural Language Processing
-- Computer Vision and Pattern Recognition
 
 ---
 
@@ -79,11 +97,11 @@ redirect_from:
 
 ## Activities
 
-- **UIC ACM Member**  
-- Member of **Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing**  
-- **UIC Maker Center "Yanxin"** Technical Team Member (First Prize, Innovation and Entrepreneurship Competition; Silver Award, "Jingniuhui" Cup)  
+- **UIC ACM** Member
+- **Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing** Member 
+- **UIC Maker Center "Yanxin" Technical Team Member** (**First Prize**, Innovation and Entrepreneurship Competition; **Silver Award**, "Jingniuhui" Cup)  
 - **Technical Advisor** of UIC Digital Healthcare Research Group 
-- **Chess:** Third Place (City), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
+- **Chinese Chess:** Third Place (**City**), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
 
 ---
 
