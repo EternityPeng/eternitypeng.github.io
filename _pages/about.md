@@ -15,14 +15,15 @@ redirect_from:
 - Phone: +86 18207572289
 - Language:
   - **Programming Language**
-    - Python; C++, C, Java, SQL, HTML, CSS, PHP, Shell, Git, Linux, Docker
+    - Python, C++, C, Java, SQL, HTML, CSS, PHP, Shell, Git, Linux, Docker
   - **Conversational Language**
     - English (Proficient), Mandarin (Native), Cantonese (Native)
 - Hobbies:
   - **Tech**: Compiler Construction, Software Engineering, IoT, Web, App Development, NLP, CVPR
   - **Sports**: Table Tennis, Karate, Running, Cycling, Kayak, Fitness, Archery
   - **Other**: Quantitative Investment, Business, Market Analysis, Chinese Chess, Film
-- Summary: Completed three years of major courses in two years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top 8% in Computer Science) and **Second-Class Scholarship** (top 20% in Film).
+- Summary: 
+  - Completed three years of major courses in **two** years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top 8% in Computer Science) and **Second-Class Scholarship** (top 20% in Film).
 
   
 
