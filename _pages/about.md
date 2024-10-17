@@ -22,6 +22,7 @@ redirect_from:
   - **Tech**: Compiler Construction, Software Engineering, IoT, Web, App Development, NLP, CVPR
   - **Sports**: Table Tennis, Karate, Running, Cycling, Kayak, Fitness, Archery
   - **Other**: Quantitative Investment, Business, Market Analysis, Chinese Chess, Film
+- Summary: Completed three years of major courses in two years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top 8% in Computer Science) and **Second-Class Scholarship** (top 20% in Film).
 
   
 
@@ -53,7 +54,7 @@ redirect_from:
 - Industrial Internet Platform Development Engineer Intermediate Level, 06.2024
 - Second Prize in the 3rd National University Students Data Analysis Science Popularization Competition, 09.2024
 - Market Analysis Researchers LEVEL I, 04.2024
-- LeetCode School Competition Excellent Award (Top 4), 09.2023
+- LeetCode University Competition Excellent Award (Top 4), 09.2023
 
 ---
 
