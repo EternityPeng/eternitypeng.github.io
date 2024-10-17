@@ -9,7 +9,9 @@ redirect_from:
 
 # Jiayin Peng
 
-- Email: [pengjiayin109@gmail.com](mailto:pengjiayin109@gmail.com) | [r130031205@mail.uic.edu.cn](mailto:r130031205@mail.uic.edu.cn)
+- Email:
+  - Personal Email: [pengjiayin109@gmail.com](mailto:pengjiayin109@gmail.com)
+  - School Email: [r130031205@mail.uic.edu.cn](mailto:r130031205@mail.uic.edu.cn)
 - Blog: [CSDN Blog](https://blog.csdn.net/p213100)
 - GitHub: [EternityPeng](https://github.com/EternityPeng)
 - Phone: +86 18207572289
