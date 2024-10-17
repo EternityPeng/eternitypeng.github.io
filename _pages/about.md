@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Introduction"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,13 +15,13 @@ redirect_from:
 - Phone: +86 18207572289
 - Language:
   - **Programming Language**
-    - Python; C++; C; Java; SQL; HTML; CSS; PHP; Shell; Git; Linux; Docker
+    - Python; C++, C, Java, SQL, HTML, CSS, PHP, Shell, Git, Linux, Docker
   - **Conversational Language**
-    - English (Proficient); Mandarin (Native); Cantonese (Native)
+    - English (Proficient), Mandarin (Native), Cantonese (Native)
 - Hobbies:
   - **Tech**: Compiler Construction, Software Engineering, IoT, Web, App Development, NLP, CVPR
   - **Sports**: Table Tennis, Karate, Running, Cycling, Kayak, Fitness, Archery
-  - **Other**: Quantitative Investment, Business, Market Analysis, Chinese Chess
+  - **Other**: Quantitative Investment, Business, Market Analysis, Chinese Chess, Film
 
   
 
@@ -48,10 +48,10 @@ redirect_from:
 ## Honors & Awards
 
 - **National Third Prize** in Python Group at the 15th Lan Qiao (Blue Bridge) Cup, 06.2024
-- **National Second Prize** in the 3rd National College Students Market Research and Business Planning Competition, 06.2024  
-- Third Prize in Interactive Media Design Group at Guangdong College Student Computer Design Competition, 09.2024
+- **National Second Prize** in the 3rd National University Students Market Research and Business Planning Competition, 06.2024  
+- Third Prize in Interactive Media Design Group at Guangdong University Student Computer Design Competition, 09.2024
 - Industrial Internet Platform Development Engineer Intermediate Level, 06.2024
-- Second Prize in the 3rd National College Students Data Analysis Science Popularization Competition, 09.2024
+- Second Prize in the 3rd National University Students Data Analysis Science Popularization Competition, 09.2024
 - Market Analysis Researchers LEVEL I, 04.2024
 - LeetCode School Competition Excellent Award (Top 4), 09.2023
 
@@ -98,8 +98,9 @@ redirect_from:
 - **UIC ACM** Member
 - Guangdong Key **Laboratory** for Artificial Intelligence and Multi-Modal Data Processing Member 
 - **UIC Maker Center "Yanxin" Technical Team Member** (**First Prize**, Innovation and Entrepreneurship Competition; **Silver Award**, "Jingniuhui" Cup)  
-- **Technical Advisor** of UIC Digital Healthcare Research Group 
+- Technical Advisor and General **Head** of the UIC Digital Healthcare Research Group
 - **Chinese Chess:** Third Place (**City**), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
+- **Sound Assistant** of 13th University Student Advertising Art Competition (**Second Prize**)
 
 ---
 

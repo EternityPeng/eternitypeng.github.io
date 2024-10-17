@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jiayin Peng / Homepage"
 title_separator          : "-"
-name                     : &name "Jiayin Peng"
+name                     : &name "Jiayin Peng(Eternity)"
 description              : &description "personal description"
 url                      : https://eternitypeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "EternityPeng/eternitypeng.github.io"
 author:
   # Biographic information
   avatar           : "profile2.0.png"
-  name             : "Jiayin Peng"
+  name             : "Jiayin Peng(Eternity)"
   pronouns         : "he/him"  
   bio              : "ACM Member | Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing"
   location         : "China"
