@@ -9,7 +9,7 @@ redirect_from:
 
 # Jiayin Peng
 
-- Email: [pengjiayin109@gmail.com](mailto:pengjiayin109@gmail.com)
+- Email: [pengjiayin109@gmail.com](mailto:pengjiayin109@gmail.com) | [r130031205@mail.uic.edu.cn](mailto:r130031205@mail.uic.edu.cn)
 - Blog: [CSDN Blog](https://blog.csdn.net/p213100)
 - GitHub: [EternityPeng](https://github.com/EternityPeng)
 - Phone: +86 18207572289
@@ -102,7 +102,7 @@ redirect_from:
 - **UIC Maker Center "Yanxin" Technical Team Member** (**First Prize**, Innovation and Entrepreneurship Competition; **Silver Award**, "Jingniuhui" Cup)  
 - Technical Advisor and General **Head** of the UIC Digital Healthcare Research Group
 - **Chinese Chess:** Third Place (**City**), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
-- **Sound Assistant** of 13th University Student Advertising Art Competition (**Second Prize**)
+- **Sound Assistant** for the *No Fear* project at the 13th University Student Advertising Art Competition (*Second Prize*)
 
 ---
 
