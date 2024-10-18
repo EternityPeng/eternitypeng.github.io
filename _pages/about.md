@@ -23,7 +23,7 @@ redirect_from:
 - Hobbies:
   - **Tech**: Compiler Construction, Software Engineering, IoT, Web, App Development, NLP, CVPR
   - **Sports**: Table Tennis, Karate, Running, Cycling, Kayak, Fitness, Archery
-  - **Other**: Quantitative Investment, Business, Market Analysis, Chinese Chess, Film
+  - **Other**: Quantitative Investment, Business, Market Analysis, Chinese Chess, Film, Travel
 - Summary: 
   - Completed three years of major courses in **two** years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top 8% in Computer Science) and **Second-Class Scholarship** (top 20% in Film).
 
@@ -103,9 +103,10 @@ redirect_from:
 - Guangdong Key **Laboratory** for Artificial Intelligence and Multi-Modal Data Processing Member 
 - **UIC Maker Center "Yanxin" Technical Team Member** (**First Prize**, Innovation and Entrepreneurship Competition; **Silver Award**, "Jingniuhui" Cup)  
 - Technical Advisor and General **Head** of the UIC Digital Healthcare Research Group
+- Behavioral and Decision Research **Laboratory** Member at United International College
 - **Chinese Chess:** Third Place (**City**), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
 - **Sound Assistant** for the *No Fear* project at the 13th University Student Advertising Art Competition (*Second Prize*)
-- Behavioral and Decision Research **Laboratory** Member at United International College
+
 
 ---
 
