@@ -17,7 +17,7 @@ redirect_from:
 - Phone: +86 18207572289
 - Language:
   - **Programming Language**
-    - Python, C++, C, Java, SQL, HTML, CSS, PHP, Shell, Git, Linux, Docker
+    - Python, C++, C, Java, SQL, HTML, CSS, PHP, Shell, Git, Linux, Docker, LaTeX, Markdown
   - **Conversational Language**
     - English (Proficient), Mandarin (Native), Cantonese (Native)
 - Hobbies:
@@ -105,6 +105,7 @@ redirect_from:
 - Technical Advisor and General **Head** of the UIC Digital Healthcare Research Group
 - **Chinese Chess:** Third Place (**City**), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
 - **Sound Assistant** for the *No Fear* project at the 13th University Student Advertising Art Competition (*Second Prize*)
+- Behavioral and Decision Research **Laboratory** Member at United International College
 
 ---
 
