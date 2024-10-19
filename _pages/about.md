@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Jiayin Peng
+## Jiayin Peng
 
 - Email:
   - Personal Email: [pengjiayin109@gmail.com](mailto:pengjiayin109@gmail.com)
@@ -15,16 +15,34 @@ redirect_from:
 - Blog: [CSDN Blog](https://blog.csdn.net/p213100)
 - GitHub: [EternityPeng](https://github.com/EternityPeng)
 - Phone: +86 18207572289
-- Language:
-  - **Programming Language**
-    - Python, C++, C, Java, SQL, HTML, CSS, PHP, Shell, Git, Linux, Docker, LaTeX, Markdown
-  - **Conversational Language**
-    - English (Proficient), Mandarin (Native), Cantonese (Native)
-- Hobbies:
-  - **Tech**: Compiler Construction, Software Engineering, IoT, Web, App Development, NLP, CVPR
-  - **Sports**: Table Tennis, Karate, Running, Cycling, Kayak, Fitness, Archery
-  - **Other**: Quantitative Investment, Business, Market Analysis, Chinese Chess, Film, Travel
-- Summary: 
+
+- Language
+  - Programming Languages
+    - Python, C++, C, Java, HTML, CSS, PHP
+
+  - Conversational Languages
+    - **English**: Proficient  
+    - **Mandarin**: Native  
+    - **Cantonese**: Native
+
+- Tools & Frameworks
+  - **Web Development**: Jekyll, Ruby, Node.js
+  - **Version Control**: Git, GitHub, GitLab
+  - **DevOps**: Docker
+  - **Machine Learning & AI**: TensorFlow, PyTorch
+  - **Database Management**: MySQL
+  - **IDEs & Editors**: Visual Studio Code, PyCharm, IntelliJ IDEA
+  - **Other Tools**: LaTeX, Markdown, Bash, Linux Shell Scripting
+
+- Hobbies & Interests
+  - **Technology**
+    - Compiler Construction, Software Engineering, Internet of Things (IoT), Web Development, App Development, Natural Language Processing (NLP), Computer Vision and Pattern Recognition (CVPR)
+  - **Sports**
+    - Table Tennis, Karate, Running, Cycling, Kayaking, Fitness, Archery
+  - **Other**
+    - Quantitative Investment, Business & Market Analysis, Chinese Chess, Film, Travel
+
+## **Summary**
   - Completed three years of major courses in **two** years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top 8% in Computer Science) and **Second-Class Scholarship** (top 20% in Film).
 
   
