@@ -26,13 +26,13 @@ redirect_from:
     - **Cantonese**: Native
 
 - Tools & Frameworks
-  - **Web Development**: Jekyll, Ruby, Node.js
+  - **Web Development**: Flask, Jekyll, Ruby, Node.js
   - **Version Control**: Git, GitHub, GitLab
   - **DevOps**: Docker
   - **Machine Learning & AI**: TensorFlow, PyTorch
   - **Database Management**: MySQL
   - **IDEs & Editors**: Visual Studio Code, PyCharm, IntelliJ IDEA
-  - **Other Tools**: LaTeX, Markdown, Bash, Linux Shell Scripting
+  - **Other Tools**: LaTeX, Markdown, Bash, Linux Shell Scripting, Unity
 
 - Hobbies & Interests
   - **Technology**
@@ -108,7 +108,7 @@ redirect_from:
 
 ### Canvest SciWin Intelligent Company (HKEX-listed), R&D Dept.  
 *Data Processing Intern (06.2023 - 09.2023)*  
-- Utilized **Unity** for point cloud localization and annotation, including classification and statistical analysis of vehicle types, driving conditions, heading positions, etc.
+- Utilized Unity for **point cloud localization and annotation**, including classification and statistical analysis of vehicle types, driving conditions, heading positions, etc.
 - Responsible for preparing anomaly reports and delivering weekly team presentations within the group.
 - Assisted in the installation and deployment of **LiDAR** components.
 
