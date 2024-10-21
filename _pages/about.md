@@ -32,6 +32,7 @@ redirect_from:
   - **Machine Learning & AI**: TensorFlow, PyTorch
   - **Database Management**: MySQL
   - **IDEs & Editors**: Visual Studio Code, PyCharm, IntelliJ IDEA
+  - **Financial Models & Frameworks**: Bayesian Methods, Monte Carlo Simulation
   - **Other Tools**: LaTeX, Markdown, Bash, Linux Shell Scripting, Unity
 
 - Hobbies & Interests
