@@ -125,7 +125,7 @@ redirect_from:
 - Behavioral and Decision Research **Laboratory** Member at United International College
 - **Chinese Chess:** Third Place (**City**), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
 - **Sound Assistant** for the *No Fear* project at the 13th University Student Advertising Art Competition (*Second Prize*)
-
+- Presented two research projects at UIC Poster Exhibition
 
 ---
 
