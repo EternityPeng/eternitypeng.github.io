@@ -31,9 +31,9 @@ redirect_from:
   - **DevOps**: Docker
   - **Machine Learning & AI**: TensorFlow, PyTorch
   - **Database Management**: MySQL
-  - **IDEs & Editors**: Visual Studio Code, PyCharm, IntelliJ IDEA
+  - **IDEs & Editors**: Visual Studio Code, PyCharm, Clion, IntelliJ IDEA
   - **Financial Models & Frameworks**: Bayesian Methods, Monte Carlo Simulation
-  - **Other Tools**: LaTeX, Markdown, Bash, Linux Shell Scripting, Unity
+  - **Other Tools**: LaTeX, Markdown, Bash, Linux Shell Scripting, Mac Shell Scripting, Unity
 
 - Hobbies & Interests
   - **Technology**
@@ -72,7 +72,7 @@ redirect_from:
 
 - **National Third Prize** in Python Group at the 15th Lan Qiao (Blue Bridge) Cup, 06.2024
 - **National Second Prize** in the 3rd National University Students Market Research and Business Planning Competition, 06.2024
-- Guangdong Media Valley Scholarship, 11.2024  
+- Guangdong Medical Valley Scholarship, 11.2024  
 - Third Prize in Interactive Media Design Group at Guangdong University Student Computer Design Competition, 09.2024
 - Industrial Internet Platform Development Engineer Intermediate Level, 06.2024
 - Second Prize in the 3rd National University Students Data Analysis Science Popularization Competition, 09.2024
