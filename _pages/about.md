@@ -123,6 +123,7 @@ redirect_from:
 - Guangdong Key **Laboratory** for Artificial Intelligence and Multi-Modal Data Processing Member 
 - **UIC Maker Center "Yanxin" Technical Team Member** (**First Prize**, Innovation and Entrepreneurship Competition; **Silver Award**, "Jingniuhui" Cup)  
 - Technical Advisor and General **Head** of the UIC Digital Healthcare Research Group
+- Attend the 8th **IEEE** International Conference on Energy Internet (ICEI 2024)
 - Behavioral and Decision Research **Laboratory** Member at United International College
 - **Chinese Chess:** Third Place (**City**), **Table Tennis:** First Place (District), **Karate:** Second Place (District)
 - **Sound Assistant** for the *No Fear* project at the 13th University Student Advertising Art Competition (*Second Prize*)
