@@ -18,7 +18,7 @@ redirect_from:
 
 - Language
   - Programming Languages
-    - Python, C++, C, Java, HTML, CSS, PHP
+    - Python, C++, C, Java, HTML, CSS, JavaScript, PHP
 
   - Conversational Languages
     - **English**: Proficient  
@@ -44,7 +44,7 @@ redirect_from:
     - Quantitative Investment, Business & Market Analysis, Chinese Chess, Film, Travel
 
 ## **Summary**
-  - Completed three years of major courses in **two** years (transitioned from Film to Computer Science), earning the school's **First-Class Scholarship** (top 8% in Computer Science) and **Second-Class Scholarship** (top 20% in Film).
+  - Completed three years of major courses in **two** years (transitioned from Film to Computer Science), continuously earning the school's **First-Class Scholarship** (top 8% in Computer Science) and **Second-Class Scholarship** (top 20% in Film).
 
   
 
@@ -74,6 +74,9 @@ redirect_from:
 - **National Second Prize** in the 3rd National University Students Market Research and Business Planning Competition, 06.2024
 - Guangdong Medical Valley Scholarship, 11.2024  
 - Third Prize in Interactive Media Design Group at Guangdong University Student Computer Design Competition, 09.2024
+- First-Class Award of UIC Scholarship, 12.2024
+- First-Class Award of UIC Scholarship, 11.2023
+- Second-Class Award of UIC Scholarship, 11.2022
 - Industrial Internet Platform Development Engineer Intermediate Level, 06.2024
 - Second Prize in the 3rd National University Students Data Analysis Science Popularization Competition, 09.2024
 - Market Analysis Researchers LEVEL I, 04.2024
